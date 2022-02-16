@@ -3,7 +3,11 @@ $users = ["Gabriel", "Nicolas", "Mathieu", "Corenthin", "Philippe"];
 foreach($users as $key){
     echo $key ."<br>";
 }
+
+// Si l'input et non null et que la valeur saisie correspond à un élément du tableau
+// if(isset($_POST['nom']) && $_POST['nom'] == $users){
 if(isset($_POST['nom'])){
+// Alors afficher le contenu de l'input
     echo $_POST['nom'];
 
 }
