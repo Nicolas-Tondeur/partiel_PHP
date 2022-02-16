@@ -1,5 +1,5 @@
-# partiel_PHP
+# Tondeur Nicolas
 
 ## Pour les exercices, basculer sur la branche master
 
-Tondeur Nicolas
+
